@@ -1,4 +1,4 @@
-# Professor_Maker
+# Professor Maker
  2018년 1학기 객체 지향 언어1
 
 사용 언어: C++  
